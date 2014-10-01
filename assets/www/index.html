@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <title>Primera Aplicación</title>
+        <link rel="stylesheet" href="css/jquery.mobile-1.4.4.min.css" />
+        <link rel="stylesheet" href="css/jquery-ui.min.css" />
+        <link rel="stylesheet" href="css/stylo.css" />
+        <script type="text/javascript" src="js/cordova.js"></script>
+		<script type="text/javascript" charset="utf-8" src="js/jquery-2.1.1.min.js"></script>
+        <script type="text/javascript" charset="utf-8" src="js/jquery.mobile-1.4.4.min.js"></script>
+        <script type="text/javascript" charset="utf-8" src="js/funciones.js"></script>
+        <script type="text/javascript" charset="utf-8">
+            function onLoad()
+            {
+                document.addEventListener("deviceready", onDeviceReady, false);
+				document.addEventListener("backbutton", onBackKeyDown, false);
+            }
+    
+            function onDeviceReady() {
+                Grupos();
+            }
+			function onBackKeyDown() {
+				navigator.app.exitApp();
+			}
+
+        </script>
+    </head>
+
+	<body onLoad="onLoad()">
+	
+		<div data-role="page" data-theme="b">
+		
+			<div class="Cab" data-role="header" data-position="fixed">
+            	<div id="cabecera">
+                	<div id="logo">
+                    	<!--<img id="imgLogo" src="img/logo.jpg" width="35" height="35" alt="logo">-->
+                    </div>
+                    <div id="tCab">
+                        <h1>TopVideoMusic</h1>
+                    </div>
+                </div>
+                <div id="navbar" data-role="navbar" data-grid="d" style="clear:both;">
+                    <ul>
+                        <li><a class="menu1" id="rock" href="#" data-theme="b"><span class="spMenu">Rock</span></a></li>
+                        <li><a class="menu1" id="pop" href="#"data-theme="b"><span class="spMenu">Pop</span></a></li>
+                        <li><a class="menu1" id="latino" href="#" data-theme="b"><span class="spMenu">Latino</span></a></li>
+                        <li><a class="menu1" id="dance" href="#" data-theme="b"><span class="spMenu">Dance</span></a></li>
+                        <li><a class="menu1" id="rap" href="#" data-theme="b"><span class="spMenu">Rap</span></a></li>
+                    </ul>
+    			</div><!-- /navbar -->
+			</div>
+			<div id="contenido" data-role="content">
+
+                <div id="lista-grupos">
+
+                    <ul data-role="listview" data-filter="true" data-filter-reveal="false" data-filter-placeholder="Busca tu grupo ...">
+                    </ul>
+                </div>
+                 <div id="biografia"></div>
+
+					
+			</div>
+			<div id="pie" data-role="footer" data-position="fixed" data-theme="b">
+				<h2></h2>
+			</div>
+		</div>
+	</body>    
+
+
+</html>

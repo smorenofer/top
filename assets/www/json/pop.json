@@ -1,0 +1,527 @@
+[
+    {
+        "CodBand": "abraham-mateo",
+        "Grupo": "Abraham Mateo",
+        "Imagen": "b1afc-Abraham+Mateo.png",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "amaral",
+        "Grupo": "Amaral",
+        "Imagen": "92575-amaral.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "ana-johnsson",
+        "Grupo": "Ana Johnsson",
+        "Imagen": "1c8e0-johnssonana.jpg",
+        "Pais": "Suecia",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "andy-y-lucas",
+        "Grupo": "Andy y Lucas",
+        "Imagen": "d8a8d-andylucas.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "antonio-orozco",
+        "Grupo": "Antonio Orozco",
+        "Imagen": "01b5f-antonioorozco.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "arash",
+        "Grupo": "Arash",
+        "Imagen": "7beb0-Arash.jpg",
+        "Pais": "Irán",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "auryn",
+        "Grupo": "Auryn",
+        "Imagen": "26a86-auryn.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "avril-lavigne",
+        "Grupo": "Avril Lavigne",
+        "Imagen": "5985d-Avril.png",
+        "Pais": "Canadá",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "bruno-mars",
+        "Grupo": "Bruno Mars",
+        "Imagen": "c9186-BrunoMars.png",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "cafe-quijano",
+        "Grupo": "Café Quijano",
+        "Imagen": "22bd6-cafe-quijano.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "chambao",
+        "Grupo": "Chambao",
+        "Imagen": "7346e-chambao.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "chris-brown",
+        "Grupo": "Chris Brown",
+        "Imagen": "027e1-ChrisBrown.png",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "dani-martin",
+        "Grupo": "Dani Martín",
+        "Imagen": "69cb3-Dani+Martn.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "david-bisbal",
+        "Grupo": "David Bisbal",
+        "Imagen": "a69f5-davidbisbal.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "decai",
+        "Grupo": "Decai",
+        "Imagen": "49a7c-decai.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "despistaos",
+        "Grupo": "Despistaos",
+        "Imagen": "a6cc5-despistaos.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "dover",
+        "Grupo": "Dover",
+        "Imagen": "6bcd8-dover.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "efecto-mariposa",
+        "Grupo": "Efecto Mariposa",
+        "Imagen": "d035c-efectomariposa.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "el-barrio",
+        "Grupo": "El Barrio",
+        "Imagen": "f395a-elbarrio.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "el-pescao",
+        "Grupo": "El Pescao",
+        "Imagen": "8fbb7-El+Pescao.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "el-sueno-de-morfeo",
+        "Grupo": "El Sueño de Morfeo",
+        "Imagen": "606cf-el-suenodemorfeo.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "enrique-bunbury",
+        "Grupo": "Enrique Bunbury",
+        "Imagen": "6f27c-bunbury.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "enrique-iglesias",
+        "Grupo": "Enrique Iglesias",
+        "Imagen": "ad246-enrique.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "estopa",
+        "Grupo": "Estopa",
+        "Imagen": "041cb-estopa.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "fangoria",
+        "Grupo": "Fangoria",
+        "Imagen": "6ceba-fangoria.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "fito-y-fitipaldis",
+        "Grupo": "Fito & Fitipaldis",
+        "Imagen": "49919-fito.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "flo-rida",
+        "Grupo": "Flo Rida",
+        "Imagen": "2dd80-florida.jpg",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "hombres-g",
+        "Grupo": "Hombres G",
+        "Imagen": "2178f-hombresg.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "icona-pop",
+        "Grupo": "Icona Pop",
+        "Imagen": "60b81-IconaPop.png",
+        "Pais": "Suecia",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "iguana-tango",
+        "Grupo": "Iguana Tango",
+        "Imagen": "a0725-iguana-tango.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "james-arthur",
+        "Grupo": "James Arthur",
+        "Imagen": "18af6-james_arthur__1851554a.jpg",
+        "Pais": "Reino Unido",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "jarabe-de-palo",
+        "Grupo": "Jarabe de palo",
+        "Imagen": "ad81d-jaravedepalo.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "jason-derulo",
+        "Grupo": "Jason Derulo",
+        "Imagen": "b0159-JasonDerulo.png",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "kiko-y-shara",
+        "Grupo": "Kiko y Shara",
+        "Imagen": "8a977-kikoshara.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "krisha",
+        "Grupo": "Krisha",
+        "Imagen": "b8494-krisha.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "la-cabra-mecanica",
+        "Grupo": "La cabra Mecanica",
+        "Imagen": "c2113-lacabramecanica.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "la-musicalite",
+        "Grupo": "La Musicalité",
+        "Imagen": "d5e0d-La+Musicalite.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "la-oreja-de-vangogh",
+        "Grupo": "La Oreja de Vangogh",
+        "Imagen": "52e03-la-oreja-de-van-gogh-1.png",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "la-quinta-estacion",
+        "Grupo": "La Quinta Estación",
+        "Imagen": "c8d8f-laquintaestacion.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "los-chichos",
+        "Grupo": "Los Chichos",
+        "Imagen": "852a5-chichos.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "los-chunguitos",
+        "Grupo": "Los Chunguitos",
+        "Imagen": "5b8c2-LosChunguitos.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "los-delincuentes",
+        "Grupo": "Los Delincuentes",
+        "Imagen": "eee9e-losdelincuentes.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "maldita-nerea",
+        "Grupo": "Maldita Nerea",
+        "Imagen": "bf92a-malditanerea.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "malu",
+        "Grupo": "Malú",
+        "Imagen": "c981c-malu.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "maroon-5",
+        "Grupo": "Maroon 5",
+        "Imagen": "961fd-Maroon5.jpg",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "mclan",
+        "Grupo": "Mclan",
+        "Imagen": "4e8d1-mclan.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "melendi",
+        "Grupo": "Melendi",
+        "Imagen": "4caac-Melendi.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "melocos",
+        "Grupo": "Melocos",
+        "Imagen": "472c7-melocos.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "miguel-bose",
+        "Grupo": "Miguel Bosé",
+        "Imagen": "56a8c-miguelbose.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "mika",
+        "Grupo": "MIKA ",
+        "Imagen": "938bc-Mika.jpg",
+        "Pais": "Reino Unido",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "miley-cyrus",
+        "Grupo": "Miley Cyrus ",
+        "Imagen": "9558a-MileyCyrus.png",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "miranda-warning",
+        "Grupo": "Miranda Warning",
+        "Imagen": "583e9-mirandawarning.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "nena-daconte",
+        "Grupo": "Nena Daconte",
+        "Imagen": "658c9-nenadaconte.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "nina-pastori",
+        "Grupo": "Niña Pastori",
+        "Imagen": "c35de-ninapastori.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "obk",
+        "Grupo": "OBK",
+        "Imagen": "234f8-obk.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "olly-murs",
+        "Grupo": "Olly Murs",
+        "Imagen": "25277-OllyMurs.png",
+        "Pais": "Reino Unido",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "onerepublic",
+        "Grupo": "OneRepublic",
+        "Imagen": "f0169-onerepublic.png",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "pIink",
+        "Grupo": "P!ink",
+        "Imagen": "7081f-pink.jpg",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "passenger",
+        "Grupo": "Passenger",
+        "Imagen": "0a4ee-passenger.jpg",
+        "Pais": "Reino Unido",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "pastora",
+        "Grupo": "Pastora",
+        "Imagen": "02b24-pastora.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "pereza",
+        "Grupo": "Pereza",
+        "Imagen": "24268-pereza.jpg",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "pignoise",
+        "Grupo": "Pignoise",
+        "Imagen": "0b886-pignoise_1.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "pitbull",
+        "Grupo": "Pitbull",
+        "Imagen": "7288b-Pitbull.jpg",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "presuntos-implicados",
+        "Grupo": "Presuntos Implicados",
+        "Imagen": "f0e3a-presuntosimplicados.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "psy",
+        "Grupo": "Psy",
+        "Imagen": "98e32-psy.jpg",
+        "Pais": "Corea del Sur",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "revolver",
+        "Grupo": "Revolver",
+        "Imagen": "f0fa7-revolver.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "rihanna",
+        "Grupo": "Rihanna",
+        "Imagen": "8b471-Rihanna.png",
+        "Pais": "Barbados",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "sean-paul",
+        "Grupo": "Sean Paul",
+        "Imagen": "4348d-sean_paul.jpg",
+        "Pais": "Jamaica",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "selena-gomez",
+        "Grupo": "Selena Gomez",
+        "Imagen": "4cba6-Selena.png",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "sergio-contreras",
+        "Grupo": "Sergio Contreras",
+        "Imagen": "22b61-SergioContreras.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "shakira",
+        "Grupo": "Shakira",
+        "Imagen": "e4431-Shakira.png",
+        "Pais": "Colombia",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "tam-tam-go",
+        "Grupo": "Tam Tam Go",
+        "Imagen": "a52ea-tamtamgo.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "taxi",
+        "Grupo": "Taxi",
+        "Imagen": "d4a8c-taxi.jpg",
+        "Pais": "Gibraltar",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "victoria-justice",
+        "Grupo": "Victoria Justice",
+        "Imagen": "562b1-victoria-justice.jpg",
+        "Pais": "Estados Unidos",
+        "CodGen": "pop"
+    },
+    {
+        "CodBand": "zenttric",
+        "Grupo": "Zenttric",
+        "Imagen": "01957-zenttric.jpg",
+        "Pais": "España",
+        "CodGen": "pop"
+    }
+]

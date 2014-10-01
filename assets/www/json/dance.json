@@ -1,0 +1,58 @@
+[
+    {
+        "CodBand": "avicii",
+        "Grupo": "Avicii",
+        "Imagen": "e1d46-Avicii.jpg",
+        "Pais": "Suecia",
+        "CodGen": "dance"
+    },
+    {
+        "CodBand": "calvin-harris",
+        "Grupo": "Calvin Harris",
+        "Imagen": "70319-calvinHarris.jpg",
+        "Pais": "Reino Unido",
+        "CodGen": "dance"
+    },
+    {
+        "CodBand": "david-guetta",
+        "Grupo": "David Guetta",
+        "Imagen": "eb37b-DavidGuetta.png",
+        "Pais": "Francia",
+        "CodGen": "dance"
+    },
+    {
+        "CodBand": "in-grid",
+        "Grupo": "In-Grid",
+        "Imagen": "04559-InGrid.jpg",
+        "Pais": "Italia",
+        "CodGen": "dance"
+    },
+    {
+        "CodBand": "inna",
+        "Grupo": "Inna",
+        "Imagen": "34949-Inna.png",
+        "Pais": "Rumanía",
+        "CodGen": "dance"
+    },
+    {
+        "CodBand": "steve-aoki",
+        "Grupo": "Steve Aoki",
+        "Imagen": "ba47b-SteveAoki.jpg",
+        "Pais": "Estados Unidos",
+        "CodGen": "dance"
+    },
+    {
+        "CodBand": "swedish-house-mafia",
+        "Grupo": "Swedish House Mafia",
+        "Imagen": "b5146-SwedishHouseMafia.png",
+        "Pais": "Suecia",
+        "CodGen": "dance"
+    },
+    {
+        "CodBand": "william",
+        "Grupo": "will.i.am",
+        "Imagen": "0a829-will-i-am.jpg",
+        "Pais": "Estados Unidos",
+        "CodGen": "dance"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "CodBand": "2-chainz",
+        "Grupo": "2 Chainz",
+        "Imagen": "3b8f4-2Chainz.jpg",
+        "Pais": "Estados Unidos",
+        "CodGen": "rap"
+    },
+    {
+        "CodBand": "arma-blanca",
+        "Grupo": "Arma Blanca",
+        "Imagen": "53b82-armablanca.jpg",
+        "Pais": "España",
+        "CodGen": "rap"
+    },
+    {
+        "CodBand": "bob",
+        "Grupo": "B.o.B",
+        "Imagen": "5805c-BoB.png",
+        "Pais": "Estados Unidos",
+        "CodGen": "rap"
+    },
+    {
+        "CodBand": "eminem",
+        "Grupo": "Eminem",
+        "Imagen": "b5813-Eminem.png",
+        "Pais": "Estados Unidos",
+        "CodGen": "rap"
+    },
+    {
+        "CodBand": "lil-wayne",
+        "Grupo": "Lil Wayne",
+        "Imagen": "dd76f-LilWayne.png",
+        "Pais": "Estados Unidos",
+        "CodGen": "rap"
+    },
+    {
+        "CodBand": "macklemore-y-ryan-lewis",
+        "Grupo": "Macklemore & Ryan Lewis",
+        "Imagen": "99657-MacklemoreRyanLewis.png",
+        "Pais": "Estados Unidos",
+        "CodGen": "rap"
+    },
+    {
+        "CodBand": "nicki-minaj",
+        "Grupo": "Nicki Minaj ",
+        "Imagen": "c16e1-nickiminaj.jpg",
+        "Pais": "Trinidad y Tobago",
+        "CodGen": "rap"
+    },
+    {
+        "CodBand": "sfdk",
+        "Grupo": "SFDK",
+        "Imagen": "be65c-sfdk.jpg",
+        "Pais": "España",
+        "CodGen": "rap"
+    },
+    {
+        "CodBand": "t-pain",
+        "Grupo": "T-Pain",
+        "Imagen": "af76f-t-pain.jpg",
+        "Pais": "Estados Unidos",
+        "CodGen": "rap"
+    },
+    {
+        "CodBand": "violadores-del-verso",
+        "Grupo": "Violadores del Verso",
+        "Imagen": "7c482-violadoresdelverso.jpg",
+        "Pais": "España",
+        "CodGen": "rap"
+    },
+    {
+        "CodBand": "wiz-khalifa",
+        "Grupo": "Wiz Khalifa",
+        "Imagen": "898a8-wizkhalifa.jpg",
+        "Pais": "Estados Unidos",
+        "CodGen": "rap"
+    }
+]

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <title>Primera Aplicación</title>
+        <link rel="stylesheet" href="css/jquery.mobile-1.4.4.min.css" />
+        <link rel="stylesheet" href="css/jquery-ui.min.css" />
+        <link rel="stylesheet" href="css/stylo.css" />
+       	<script type="text/javascript" src="js/cordova.js"></script>
+		<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+        <script type="text/javascript" src="js/jquery.mobile-1.4.4.min.js"></script>
+        <script type="text/javascript" src="js/funciones.js"></script>
+		<script type="text/javascript">	
+		
+			function onLoad() {
+				document.addEventListener("deviceready", onDeviceReady, false);
+			}
+	
+			function onDeviceReady() {
+				document.addEventListener("backbutton", onBackKeyDown, false);
+			}
+		
+			function onBackKeyDown() {
+				history.back();
+			}
+			verVideos();
+        </script>
+        
+    </head>
+
+	<body onLoad="onLoad()">
+
+		<div data-role="page" data-theme="b">
+		
+			<div class="Cab" data-role="header" data-position="fixed">
+            	<div id="cabecera">
+                	<div id="logo">
+                    	<!--<img id="imgLogo" src="img/logo.jpg" width="35" height="35" alt="logo">-->
+                    </div>
+                    <div id="tCab">
+                        <h1>TopVideoMusic</h1>
+                    </div>
+                </div>
+                <div id="navbar" data-role="navbar" data-grid="d" style="clear:both;">
+                    <ul>
+                        <li><a rel='external' class="menu1" id="rock" href="index.html?genero=rock" data-theme="b"><span class="spMenu">Rock</span></a></li>
+                        <li><a rel='external' class="menu1" id="pop" href="index.html?genero=pop"data-theme="b"><span class="spMenu">Pop</span></a></li>
+                        <li><a rel='external' class="menu1" id="latino" href="index.html?genero=latino" data-theme="b"><span class="spMenu">Latino</span></a></li>
+                        <li><a rel='external' class="menu1" id="dance" href="index.html?genero=dance" data-theme="b"><span class="spMenu">Dance</span></a></li>
+                        <li><a rel='external' class="menu1" id="rap" href="index.html?genero=rap" data-theme="b"><span class="spMenu">Rap</span></a></li>
+                    </ul>
+    			</div><!-- /navbar -->
+			</div>
+			<div id="contenido" data-role="content" style="width:100%!important; margin:0 !important; padding:0 !important; overflow:hidden !important">
+                    <iframe id="videos" style='width:100%; border:none; height:55%'></iframe>
+			</div>
+            
+			<div id="pie" data-role="footer" data-position="fixed">
+				<h2></h2>
+			</div>
+		</div>
+         
+	</body> 
+
+ 
+</html>
+
+

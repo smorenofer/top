@@ -1,0 +1,79 @@
+[
+    {
+        "CodBand": "a-killer-y-manny-tun-tun",
+        "Grupo": "A-Killer & Manny Tun Tun",
+        "Imagen": "59298-akillerYmanny.png",
+        "Pais": "España",
+        "CodGen": "latino"
+    },
+    {
+        "CodBand": "cali-y-el-dandee",
+        "Grupo": "Cali y el Dandee",
+        "Imagen": "e5e11-cali-y-el-dandee.jpg",
+        "Pais": "Colombia",
+        "CodGen": "latino"
+    },
+    {
+        "CodBand": "daddy-yankee",
+        "Grupo": "Daddy Yankee",
+        "Imagen": "9e0d1-Daddy+Yankee.png",
+        "Pais": "Puerto Rico",
+        "CodGen": "latino"
+    },
+    {
+        "CodBand": "danny-romero",
+        "Grupo": "Danny Romero",
+        "Imagen": "33cc7-Danny+Romerol.jpg",
+        "Pais": "España",
+        "CodGen": "latino"
+    },
+    {
+        "CodBand": "henry-mendez",
+        "Grupo": "Henry Mendez",
+        "Imagen": "3c10f-henrymendez.jpg",
+        "Pais": "Republica Dominicana",
+        "CodGen": "latino"
+    },
+    {
+        "CodBand": "juan-magan",
+        "Grupo": "Juan Magan",
+        "Imagen": "93e05-Juan+Magan.png",
+        "Pais": "España",
+        "CodGen": "latino"
+    },
+    {
+        "CodBand": "marc-anthony",
+        "Grupo": "Marc Anthony",
+        "Imagen": "5da13-MarcAnthony.png",
+        "Pais": "Estados Unidos",
+        "CodGen": "latino"
+    },
+    {
+        "CodBand": "nova-y-jory",
+        "Grupo": "Nova Y Jory",
+        "Imagen": "63632-nova-y-jory.jpg",
+        "Pais": "Puerto Rico",
+        "CodGen": "latino"
+    },
+    {
+        "CodBand": "wisin-y-yandel",
+        "Grupo": "Wisin & Yandel",
+        "Imagen": "046e6-Wisin++Yandel.png",
+        "Pais": "Puerto Rico",
+        "CodGen": "latino"
+    },
+    {
+        "CodBand": "xriz",
+        "Grupo": "XRIZ ",
+        "Imagen": "30f70-xriz.jpg",
+        "Pais": "España",
+        "CodGen": "latino"
+    },
+    {
+        "CodBand": "yandar-y-yostin",
+        "Grupo": "Yandar & Yostin",
+        "Imagen": "dbfb1-yandaryostin.jpg",
+        "Pais": "Colombia",
+        "CodGen": "latino"
+    }
+]

@@ -1,0 +1,108 @@
+body
+{
+	background-color:#000;
+}
+.Cab
+{
+	padding:0 !important;
+	margin-left:0 !important;
+	width:100% !important;
+	overflow:hidden !important;
+	background-image:url(../img/bo_play_pattern.png);
+}
+#cabecera
+{	
+	display:table !important;
+	margin:0 !important;
+	padding:0 !important;
+	height:40px !important;
+	color:#fff !important;
+}
+#logo
+{
+	display:table-cell !important;
+	
+	
+}
+#imgLogo
+{
+	/*border:1px groove #ccc !important;*/
+	margin:3px !important;
+	border-radius:4px;
+	border:1px solid #ccc;
+}
+#tCab
+{
+	display:table-cell !important;
+	padding:0 !important;
+	text-align:center !important;
+	vertical-align:middle !important;
+	width:100% !important;
+	
+}
+#tCab h1
+{
+	font-size:1.2em !important;
+	text-align:center !important;
+}
+
+#navbar
+{
+	border-top:2px groove #666666 !important;
+	border-bottom:2px groove #666666 !important;
+}
+.menu1
+{
+	padding:7px 2px 7px 2px !important;
+	border-right:2px groove #666666 !important;
+}
+#lista-grupos li, #videos li
+{
+	height:3.5em !important;
+}
+#lista-grupos img, #videos img
+{
+	max-width: 3.8em !important;
+	max-height: 3.8em !important;
+	margin:5px !important;
+	border: 1px solid #999 !important;
+}
+#lista-grupos h2,#lista-grupos p, #videos h2, #videos p
+{
+	font-size:0.8em !important;
+	padding:0 !important;
+	margin:0 !important;
+	margin-left:-2em !important;
+}
+.ui-btn-icon-notext:after, .ui-btn-icon-left:after, .ui-btn-icon-right:after
+{
+	top:35% !important;
+}
+.titV, .titV1
+{
+	text-align:center !important;
+	background-color:#38c !important;
+	padding:5px !important;
+	margin-top: 0px;
+	font-size:1.2em !important;
+}
+.titV1
+{
+	font-size:0.9em !important;
+
+}
+#pie
+{
+	overflow:hidden !important;
+	padding:0 !important;
+	margin:0 !important;
+}
+#pie h2
+{
+	font-size:0.8em !important;
+	padding:0 !important;
+	margin:5px 0 !important;
+}
+
+
+
